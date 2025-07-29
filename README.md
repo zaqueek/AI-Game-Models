@@ -7,4 +7,7 @@ Its ok if you want to alter/edit my code but be carfull i am NOT responsible if 
 
 I am also NOT responible for and harm this may couse like account bans, suspentions, etc.
 
+All of these run off of python localy from your pc.
+The simpler ones use CPU, the more complex one will attempt to use your GPU but resort to the CPU if the GPU is unavailable.
+
 Each game will have its own AI model to play them.
